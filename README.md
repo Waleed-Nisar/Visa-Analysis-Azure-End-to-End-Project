@@ -30,3 +30,16 @@ This project provides an end-to-end data processing and visualization of visa nu
 * Data Visualization: The cleaned and transformed data is visualized using Plotly Express to provide insights into visa trends in Japan.
 
 
+## 📈 Visualizations using plotly
+
+![newplot](https://github.com/user-attachments/assets/956acfd8-4d75-46f8-afec-69c9f3540b0a)
+
+![newplot (1)](https://github.com/user-attachments/assets/e86eba30-e1b3-4fcf-8f47-14da9aa31205)
+
+![newplot (2)](https://github.com/user-attachments/assets/68ae3c33-ca99-4ecf-bc0a-850386817c4b)
+
+
+
+  
+
+
