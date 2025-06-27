@@ -6,6 +6,7 @@ from pyspark.sql import SparkSession
 from pyspark.sql.functions import udf
 from pyspark.sql.types import StringType
 
+
 spark = SparkSession.builder.appName('End to end processing').getOrCreate()
 
 df = spark.read.csv('input/visa_number_in_japan.csv', header=True, inferSchema=True)
